@@ -470,7 +470,7 @@ a {
 }
 .foto img{
   width: 25vw;
-  margin-top: 150px;
+  margin-top: 250px;
   position: absolute;
   z-index: 5;
   transform: translate(5vw);
