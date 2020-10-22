@@ -37,7 +37,7 @@
     @media (min-width: 308px) and (max-width: 1000px){
         .foto img{
   width: 30vw;
-  margin-top: 200px;
+  margin-top:220px;
   position: absolute;
   z-index: 5;
   transform: translate(10vw);
