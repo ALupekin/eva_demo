@@ -8,6 +8,9 @@
 @media(min-width: 768px) and (max-width: 1000px){
   .wa_cont a{width: 80vw;height: 80px; border-radius: 40px; font-size: 35px}
   .wa_cont a:hover{width: 80vw;height: 80px; border-radius: 40px}
+    .mess{
+        border-radius: 40px;
+    }
 }
 @media(min-width:768px) and (max-width: 1000px){
   .menu-item{    width: 20vw; height: 80px;padding-top: 15px;font-size: 3vw;height: 7vw;padding: 1vw}
