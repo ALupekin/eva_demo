@@ -386,6 +386,12 @@ transition: 1s
   transition: max-height 1.35s;
   font-size: 20px;
   transition: 1s;
+     /*   background: -webkit-linear-gradient(top, #000000 0%, #ce68f9 30%, #000000 100%);
+  background:    -moz-linear-gradient(top, #000000 0%, #ce68f9 30%, #fff 100%);
+  background:      -o-linear-gradient(top, #000000 0%, #ce68f9 30%, #fff 100%);
+  background:     -ms-linear-gradient(top, #000000 0%, #ce68f9 30%, #fff 100%);
+  background:         linear-gradient(top, #000000 0%, #ce68f9 30%, #fff 100%);*/
+    background: rgba(256, 256, 256, .2)
 }
 .tab-content label{
     background: -webkit-linear-gradient(top, #000000 0%, #ce68f9 30%, #000000 100%);
@@ -469,8 +475,8 @@ a {
   justify-content: space-between
 }
 .foto img{
-  width: 25vw;
-  margin-top: 250px;
+  width: 30vw;
+  margin-top: 220px;
   position: absolute;
   z-index: 5;
   transform: translate(5vw);
