@@ -468,12 +468,7 @@ a {
   margin-left: 3vw;
   margin-right: 3vw;
 }
-.img1 img:hover{
-  transform: scale(2.5);
-  position: absolute;
-  z-index: 15;
-  transition: 2.0s
-}
+
 .all{
   display: flex;
   justify-content: space-between
@@ -496,11 +491,7 @@ a {
   
 }
 
-#sv2:hover{
-  background-image: url(../price_img/svad2.jpg);
-  position: absolute;
-  z-index: 16;
-}
+
 
 
 
