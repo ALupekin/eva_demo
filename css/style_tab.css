@@ -7,11 +7,11 @@
 .photo-item:nth-child(5n + 4){margin-top: -200px}
 .photo-item:nth-child(5n + 5){margin-top: -200px}
 .photo-item:nth-child(5n + 1){padding-left:0}
-  .photo-item{margin-top: -200px; border: 2px solid black}
-  .photo-item:nth-child(2n + 2){margin-left: 7vw}
-  .photo-item:nth-child(2n + 1){margin-left: -7vw}
-    .photo-item:nth-child:hover(2n + 2){transform: translate(20vw)}
-  .photo-item:nth-child:hover(2n + 1){margin-left: -7vw}
+.photo-item{margin-top: -200px; border: 2px solid black}
+.photo-item:nth-child(2n + 2){margin-left: 7vw}
+.photo-item:nth-child(2n + 1){margin-left: -7vw}
+.photo-item:nth-child:hover(2n + 2){transform: translate(20vw)}
+.photo-item:nth-child:hover(2n + 1){margin-left: -7vw}
  }
 
 @media(min-width: 768px) and (max-width: 1169px){.price-all{margin-top: 200px;}}
