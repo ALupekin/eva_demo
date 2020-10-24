@@ -476,7 +476,7 @@ a {
 .foto img{
   width: 30vw;
   margin-top: 220px;
-  position: absolute;
+  position: relative;
   z-index: 5;
   transform: translate(5vw);
   box-shadow: 25px 25px 45px 5px blue;
@@ -490,8 +490,27 @@ a {
 .text{
   
 }
+.all{
+  display: block;
+}
+.priv_all{
+  display: block;
+    font-family: "Lobster-Regular";
+ font-weight: 400;
+  font-size: 25px;
+   width: 90vw;
+  color: aliceblue;
+  position: relative;
+  z-index: 6;
+  margin: 0 auto
+}
+.priv{
+margin-top: -35px;
 
+}
+.priv2{
 
+}
 
 
 
