@@ -56,7 +56,7 @@ width: 200px;
   margin-left: auto;
   margin-right: auto;
   width: 350px;
-  
+  padding-top: 20px;
 }
 
 .wa a:hover, .wa_cont a:hover{
@@ -278,7 +278,13 @@ padding-left: 130px
   background-size: 13%;
   background-position: right 
 }
+#cont4{
 
+  background-image: url(../svg/sms-icon.png);
+  background-repeat: no-repeat;
+  background-size: 13%;
+  background-position: right 
+}
 #con1{
  background-image: url(../svg/Whatsapp-Icon_33936.png);
   background-repeat: no-repeat;
