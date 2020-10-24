@@ -1,5 +1,16 @@
-@media(min-width: 1170px) and (max-width: 1465px){.photo{width: 55vw;}}
-@media(min-width: 1000px) and (max-width: 1169px){.photo{width: 45vw;}}
+@media(min-width: 1170px) and (max-width: 1465px){.photo{width: 63vw;}}
+@media(min-width: 1011px) and (max-width: 1169px){.photo{width: 59vw;margin-left: 15vw;}
+}
+@media(min-width: 890px) and (max-width: 1010px){.photo{width: 52vw;margin-left: 15vw;margin-top: 250px}
+  .photo-item:nth-child(5n + 5){display: none}}
+@media(min-width: 768px) and (max-width: 889px){.photo{width: 52vw;margin-left: 15vw;margin-top: 250px}
+  .photo-item:nth-child(5n + 5){display: none};
+  .photo-item:nth-child(4n + 5){display: none}
+}
+@media(min-width: 300px) and (max-width: 767px){.photo{width: 52vw;margin-left: 15vw;margin-top: 250px}
+  .photo-item:nth-child(5n + 5){display: none};
+  .photo-item:nth-child(4n + 5){display: none}
+}
 @media(min-width: 768px) and (max-width: 1169px){.price-all{margin-top: 200px;}}
 @media(min-width: 0px) and (max-width: 767px){.price-all{margin-top: 250px;}}
 @media(min-width: 300px) and (max-width: 1169px){.price{margin: 0 auto;width: 80vw;padding: 10px, 25px;margin-top: 35px;}}
